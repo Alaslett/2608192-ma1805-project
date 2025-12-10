@@ -1,6 +1,5 @@
 # 2680192-ma1805-project
 Available at: https://alaslett.github.io/2608192-ma1805-project/
-[Artwork]/(index.html)
 
 
 **An interactive Project exploring the relationship between nature and tech**
